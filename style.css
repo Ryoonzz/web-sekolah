@@ -74,14 +74,15 @@ h3 {
 }
 
 #cover h1 {
-    color: rgb(255, 255, 255);
-    text-shadow: 3px 3px blue;
+    color: blue;
+    text-shadow: 3px 3px #de7e3a;
     font-size: 80px;
 }
 #cover p {
     font-size: 30px;
     margin: auto 90px;
     font-weight: bold;
+    text-shadow: 1px 1px blue;
 }
 
 #sambutan {
