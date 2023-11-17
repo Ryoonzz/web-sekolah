@@ -105,7 +105,7 @@ h3 {
     opacity: 0.7;
 }
 
-#informasi {
+#contact {
     margin: 50px auto;
 }
 
@@ -127,22 +127,22 @@ h3 {
     padding: 50px 0px;
 }
 
-#informasi h2 {
+#contact h2 {
     text-align: left;
 }
 
-#informasi iframe {
+#contact iframe {
     margin-right: 15px;
     border:3px solid white;
     border-radius: 10px;
 }
 
-#informasi p {
+#contact p {
     font-size: small;
     opacity: 0.7;
 }
 
-#informasi td {
+#contact td {
     text-align: left;
     padding-left: 10px;
 }
