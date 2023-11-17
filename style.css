@@ -59,6 +59,10 @@ nav ul li a {
     color: black;
 }
 
+h3 {
+    color: #558ad9;
+}
+
 #cover {
     font-size: 50px;
     top: 40%;
@@ -102,6 +106,19 @@ nav ul li a {
 }
 
 #informasi {
+    margin: 50px auto;
+}
+
+#informasi h2 {
+    font-size: 35px;
+}
+
+#video iframe {
+    height: 200px;
+    margin: 10px 20px;
+}
+
+#contact {
     display: flex;
     justify-content: center;
     background-color: #2d2d2d;
