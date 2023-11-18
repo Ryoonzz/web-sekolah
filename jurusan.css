@@ -256,3 +256,11 @@ main p {
   text-align: left;
   padding-left: 10px;
 }
+
+footer {
+  background-color: #1e1e1eff;
+  color: white;
+  text-align: center;
+  height: 15vh;
+  padding: 6vh 0vw;
+}
