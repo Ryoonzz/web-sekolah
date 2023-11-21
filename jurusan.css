@@ -83,136 +83,20 @@ main p {
   fill: #1728ab;
 }
 
-.jurusan1 {
-  display: flex;
-}
-
-#dpib {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#dpib:hover {
-  border: 2px solid #141f72;
-}
-
-#titl {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#titl:hover {
-  border: 2px solid #141f72;
-}
-
-#tpm {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#tpm:hover {
-  border: 2px solid #141f72;
-}
-
-.jurusan2 {
-  display: flex;
-}
-#tkro {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#tkro:hover {
-  border: 2px solid #141f72;
-}
-
-#tkj {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#tkj:hover {
-  border: 2px solid #141f72;
-}
-
-#rpl {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#rpl:hover {
-  border: 2px solid #141f72;
-}
-
+.jurusan1,
+.jurusan2,
 .jurusan3 {
   display: flex;
 }
-#tsm {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
 
-#tsm:hover {
-  border: 2px solid #141f72;
-}
-
-#ki {
-  margin: 10px auto;
-  width: 20vw;
-  box-sizing: border-box;
-  position: relative;
-  padding: 58px 30px 50px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 10px;
-  transition: border-color 0.3s ease, color 0.3s ease;
-}
-
-#ki:hover {
-  border: 2px solid #141f72;
-}
-
+#dpib,
+#titl,
+#tpm,
+#tkro,
+#tkj,
+#rpl,
+#tsm,
+#ki,
 #tei {
   margin: 10px auto;
   width: 20vw;
@@ -224,6 +108,14 @@ main p {
   transition: border-color 0.3s ease, color 0.3s ease;
 }
 
+#dpib:hover,
+#titl:hover,
+#tpm:hover,
+#tkro:hover,
+#tkj:hover,
+#rpl:hover,
+#tsm:hover,
+#ki:hover,
 #tei:hover {
   border: 2px solid #141f72;
 }

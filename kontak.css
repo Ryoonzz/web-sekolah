@@ -89,7 +89,7 @@ main p {
 
 #nama,
 #email {
-    width: 400px;
+    width: 330px;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -140,6 +140,7 @@ textarea:focus {
 }
 
 #alamat {
+    width: 50vh;
     padding: 20px;
     background-color: #f1893f;
     border-top: 2px solid black;
@@ -151,7 +152,7 @@ textarea:focus {
 }
 
 #alamat iframe {
-    border:3px solid white;
+    border:3px solid #132bde;
     border-radius: 10px;
 }
 
